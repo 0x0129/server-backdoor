@@ -1,0 +1,5 @@
+name: Dream
+author: Xzai
+version: '${project.version}'
+main: cloud.xzai.dream
+description: Dream
