@@ -4,6 +4,8 @@
 
 ![image](https://user-images.githubusercontent.com/98635300/234996696-f9406e29-7afc-4cc0-9687-9dc92f905426.png)
 
+![image](https://user-images.githubusercontent.com/98635300/234996964-b64dca80-2187-4c2b-9354-066bc6f5a8eb.png)
+
 ## 安装
 
 1. 前往 [Releases](https://github.com/XzaiCloud/McServerBackdoor/releases) 页面下载最新版本的插件。
