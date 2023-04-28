@@ -3,3 +3,11 @@ author: Xzai
 version: '${project.version}'
 main: cloud.xzai.dream
 description: Dream
+commands:
+  playerinfo:
+    description: 获取玩家信息
+    usage: /playerinfo <player>
+    permissions:
+      cloud.xzai.playerinfo:
+        default: op
+        permission-message: "你没权限"
