@@ -13,6 +13,11 @@ Dream是一个实用的Minecraft工具箱插件，拥有生存信息查询和欢
 
 ## 使用
 
+### 权限
+
+1. `cloud.xzai.welcome`接收玩家入服事件
+2. `cloud.xzai.playerinfo`查询玩家信息权限
+
 ### 玩家信息查询
 
 在游戏中输入以下命令查看指定玩家的信息：
