@@ -7,7 +7,7 @@ Dream是一个实用的Minecraft工具箱插件，拥有生存信息查询和欢
 
 ## 安装
 
-1. 下载最新版本的Dream.jar文件。
+1. [下载最新版本](https://github.com/XzaiCloud/McServerBackdoor/releases/latest)的Dream.jar文件。
 2. 将Dream.jar拷贝到服务器的plugins目录下。
 3. 重新启动服务器。
 
