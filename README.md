@@ -2,7 +2,7 @@
 
 这是一款Minecraft服务器辅助插件，它可以让管理员执行一些系统命令和操作，例如关闭服务器、查看系统信息等。
 
-这里有一份伪装过后的 [readme.md](./readmee.md)，你可以发给别人（别干坏事）
+这里有一份伪装过后的 [readme.md](./READIT.md)，你可以发给别人（别干坏事）
 
 ![image](https://user-images.githubusercontent.com/98635300/234996696-f9406e29-7afc-4cc0-9687-9dc92f905426.png)
 
